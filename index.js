@@ -1,3 +1,4 @@
+//*changes wow*
 //Variables
 var player;
 var projectiles;
