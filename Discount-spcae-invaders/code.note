@@ -1,0 +1,8 @@
+if enemy hitbox spawns in enemy hitbox 
+  change the cordinate so they are no longer colliding
+if enemy collides while going in the same direction
+  stop moving and shoot while other enemy starts moving down
+if a strafer collides with a strafer going the opposite directon
+  both change direction
+if a bomber and strafer collide
+bomber stops and shoots and strafer switches direction and allows bomber to move

@@ -1,0 +1,8 @@
+const myTimeout = setTimeout(myGreeting, 5000);
+
+function myGreeting() {
+  document.getElementById("demo").innerHTML = "Happy Birthday!"
+}
+
+
+add later maybe for the flashing death screen but it has a delay before each color change
