@@ -1,3 +1,4 @@
+//changes made by Jake
 //Variables
 var player;
 var projectiles;
