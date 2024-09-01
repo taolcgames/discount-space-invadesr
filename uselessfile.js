@@ -1,3 +1,3 @@
 if (register[49]) {
-    background(255,0,0)
+    rect(500,500,500,500)
 }
